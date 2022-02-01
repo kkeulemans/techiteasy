@@ -1,0 +1,10 @@
+#soldTotal {
+    color: green;
+}
+#stockTotal {
+    color: blue;
+}
+
+#currentStock {
+    color: red;
+}
